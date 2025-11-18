@@ -1,2 +1,2 @@
 # 
-site fait par les élèves de Saint Louis
+site fait par des élèves
